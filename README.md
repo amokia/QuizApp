@@ -1,6 +1,7 @@
 # QuizApp
 
-this is a football quiz app that ask the user question and gives them scores according to user answer
+This is a football quiz app that ask the user question and gives them scores according to user answer
+Developed by amos kiarii as per udacity course challedge 
 
 ![screenshot_20180629-221126](https://user-images.githubusercontent.com/39647269/42111169-27d3b4bc-7bec-11e8-941c-28c894dc2bca.png)
 
