@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="title">FOOTBALL QUISTIONS</string>
+    <string name="title2">questions are out of 20 marks</string>
+
+
+    <string name="questionOne">1. where does FIFA world cup 2018 taking place ?(2 marks)</string>
+
+    <string name="questionTwo">2. In africa champions ligue was won by TP mazembe in 2015.Which country are they from? (2 marks)</string>
+    <string name="questionTwo_choice1">Uganda</string>
+    <string name="questionTwo_choice2">Kenya</string>
+    <string name="questionTwo_choice3">Democratic Republic Of Congo</string>
+    <string name="questionTwo_choice4">Angola</string>
+
+    <string name="questionThree">3. Which below are the players of chelsea? (2 marks).</string>
+    <string name="questionThree_choice1">David Luiz</string>
+    <string name="questionThree_choice2">Alexis Sanchez</string>
+    <string name="questionThree_choice3">Romelo Lukaku</string>
+    <string name="questionThree_choice4">Eden Hazard</string>
+
+    <string name="questionFour">4.Which team won 2018 UEFA champion ligue final ?(2 marks)</string>
+
+    <string name="questionFive">5.Leonel Messi was born in which city?(2 marks)</string>
+    <string name="questionFive_choice1">Rosario</string>
+    <string name="questionFive_choice2">Buenes Aires</string>
+    <string name="questionFive_choice3">Barcelona</string>
+    <string name="questionFive_choice4">Cordoba</string>
+
+    <string name="questionSix">6.Which of the two teams are from africa? (2 marks).</string>
+    <string name="questionSix_choice1">Harambee stars</string>
+    <string name="questionSix_choice2">Chelsea</string>
+    <string name="questionSix_choice3">Super Eagles</string>
+    <string name="questionSix_choice4">Arsenal</string>
+
+    <string name="questionSeven">7. Where will FIFA world cup 2022 will be held ?(2 marks)</string>
+
+    <string name="questionEight">8. Who is the current coach for Manchester United ?(2 marks)</string>
+
+    <string name="questionNine">9.Which are the African Countries that qualified for FIFA world cup 2018 ? (3 marks).</string>
+    <string name="questionNine_choice1">Senegal</string>
+    <string name="questionNine_choice2">Uganda</string>
+    <string name="questionNine_choice3">Somalia</string>
+    <string name="questionNine_choice4">Tunisia</string>
+    <string name="questionNine_choice5">Nigeria</string>
+
+    <string name="questionTen">10. Which team won the 2015 Women\'s World Cup? (1 mark)</string>
+    <string name="questionTen_choice1">U.S.A</string>
+    <string name="questionTen_choice2">Japan</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+</resources>
